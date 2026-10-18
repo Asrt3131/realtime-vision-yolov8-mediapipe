@@ -27,7 +27,7 @@
 |----------|------|
 | 🚀 **Live Demo (Try it now)** | **[https://realtime-vision-yolov8-mediapipe-emyqrahh3wfbgyvvycvcfq.streamlit.app/](https://realtime-vision-yolov8-mediapipe-emyqrahh3wfbgyvvycvcfq.streamlit.app/)** |
 | 💻 **Source Code (GitHub)** | **[https://github.com/Asrt3131/realtime-vision-yolov8-mediapipe](https://github.com/Asrt3131/realtime-vision-yolov8-mediapipe)** |
-| 📦 **Dataset / Database** | *(به‌زودی — لینک دیتاست اینجا اضافه می‌شود)* |
+| 📦 **Dataset / Database** | *(Coming soon — dataset link will be added here)* |
 
 > 🔁 **Note:** Link to the dataset/database will be added soon. If you are the project owner, replace the placeholder in the **Dataset & Data Source** section below.
 
@@ -97,7 +97,7 @@ The app supports **image upload**, **video file processing**, and **live webcam 
 ## 🚀 Run Locally
 
 ### Prerequisites
-- Python 3.11+ (⚠️ **3.12+ may break MediaPipe / Torch wheels — use 3.11**)
+- Python 3.11 (⚠️ **3.12+ may break MediaPipe / Torch wheels — use 3.11**)
 - pip
 - (Optional) a GPU for faster inference
 - On Linux: system package `libgl1` (required by OpenCV)
