@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pt
+.streamlit/secrets.toml
+screenshots/*.png
+!screenshots/demo.png
